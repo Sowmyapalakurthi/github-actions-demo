@@ -1,0 +1,19 @@
+{
+  "name": "figlet-ascii-art",
+  "version": "1.0.0",
+  "description": "A simple Node.js app that prints ASCII art using figlet",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [
+    "figlet",
+    "ascii",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0"
+  }
+}
